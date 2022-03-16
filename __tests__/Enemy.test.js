@@ -30,6 +30,8 @@ test("gets enemy's health value", () => {
     expect(enemy.isAlive()).toBeFalsy();
   });
   
+
+  
   test("gets enemy's attack value", () => {
     const enemy = new Enemy('Saffa', 'sword');
     enemy.strength = 10;
