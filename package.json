@@ -1,0 +1,25 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "TDD ODD Project",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unis434/jest-another-RPG.git"
+  },
+  "author": "Unisa Kamara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unis434/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/unis434/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
