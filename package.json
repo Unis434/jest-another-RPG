@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sshahram/role-playing-game.git"
+    "url": "git+https://github.com/unis434/role-playing-game.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sshahram/role-playing-game/issues"
+    "url": "https://github.com/unis434/role-playing-game/issues"
   },
-  "homepage": "https://github.com/sshahram/role-playing-game#readme",
+  "homepage": "https://github.com/unis434/role-playing-game#readme",
   "devDependencies": {
     "jest": "^26.6.3"
   },
