@@ -1,4 +1,4 @@
-# role-playing-game
+# jest-another-RPG
 
 ## Description
 
