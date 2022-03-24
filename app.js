@@ -1,7 +1,9 @@
 // dependencies
 // dependencies for routes
-const apiRoutes = requirere('./lib/Game');
-new Game().initializeGame();
+const Game = require('./lib/Game');
+const inquirer = require('inquirer');
+const Enemy = require('./Enemy');
+const Player = require('./Player');
 
 const fs = require('fs');
 const path = require('path');
