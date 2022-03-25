@@ -1,10 +1,11 @@
 const http = require('http');
 const port = process.env.PORT || 3000
 
-const server = http.createServer((req, res) => {
-  res.statusCode = 200;
-  res.setHeader('Content-Type', 'text/html');
-  res.end('./lib/Game');
+const fs = require('fs');
+const path = require('path');
+const express = require('express');
+// requiring data
+const {Game} = require('./lib/Game');
 });
 
 server.listen(port,() => {
