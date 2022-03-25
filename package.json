@@ -1,25 +1,19 @@
 {
   "name": "jest-another-RPG",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "node app ",
+  "main": "app.js",
   "scripts": {
-    "test": "jest"
-  },
+  "start": "node app.js"
+},
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/unis434/jest-another-RPG.git"
-  },
+  "type": "git",
+  "url": ""
+},
   "author": "",
-  "license": "MIT",
+  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/unis434/jest-another-RPG/issues"
-  },
-  "homepage": "https://github.com/unis434/jest-another-RPG#readme",
-  "devDependencies": {
-    "jest": "^26.6.3"
-  },
-  "dependencies": {
-    "inquirer": "^8.0.0"
-  }
+  "url": ""
+},
+  "homepage": ""
 }
