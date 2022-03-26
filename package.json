@@ -1,23 +1,29 @@
 {
   "name": "jest-another-RPG",
   "version": "1.0.0",
-  "description": "# Table of Contents: * [Project Description](#description) * [Task Completed](#task-completed) * [User Story](#user-story) * [Acceptance Criteria](#acceptance-criteria) * [Installation](#installation-setup) * [Features](#features) * [Testing](#testing) * [Screenshots and Video Link of application](#screenshots-and-video) * [Links](#links) * [Credits](#credits)",
+  "description": "A command-line RPG—battle against a series of enemies whose health & stats can be sustained by taking a potion",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/unis434/jest-another-RPG.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "RPG",
+    "battle",
+    "OOP",
+    "TDD",
+    "CLI"
+  ],
+  "author": "Unisa kamara",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/unis434/jest-another-RPG/issues"
   },
-  "homepage": "https://github.com/kitchen-boy/jest-another-RPG#readme",
-  "dependencies": {
-    "inquirer": "^8.2.0"
+  "homepage": "https://github.com/unis434/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
   }
 }
