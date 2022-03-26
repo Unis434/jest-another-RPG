@@ -1,7 +1,7 @@
 {
   "name": "jest-another-RPG",
-  "version": "16.14.0",
-  "description": "A command-line RPG—battle against a series of enemies whose health & stats can be sustained by taking a potion",
+  "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "jest"
@@ -10,20 +10,16 @@
     "type": "git",
     "url": "git+https://github.com/unis434/jest-another-RPG.git"
   },
-  "keywords": [
-    "RPG",
-    "battle",
-    "OOP",
-    "TDD",
-    "CLI"
-  ],
-  "author": "Unisa kamara",
-  "license": "ISC",
+  "author": "Unisa Kamara",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/unis434/jest-another-RPG/issues"
   },
   "homepage": "https://github.com/unis434/jest-another-RPG#readme",
   "devDependencies": {
-    "jest": "^27.5.1"
+    "jest": "^26.4.2"
+  },
+  "dependencies": {
+    "inquirer": "^7.3.3"
   }
 }
