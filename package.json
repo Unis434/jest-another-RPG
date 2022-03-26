@@ -1,6 +1,6 @@
 {
   "name": "jest-another-RPG",
-  "version": "1.0.0",
+  "version": "16.4.0",
   "description": "A command-line RPG—battle against a series of enemies whose health & stats can be sustained by taking a potion",
   "main": "index.js",
   "scripts": {
