@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/unis434/jest-another-rpg.git"
+    "url": "git+https://github.com/Johnnyboy7781/jest-another-RPG.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/unis434/jest-another-rpg/issues"
+    "url": "https://github.com/Johnnyboy7781/jest-another-RPG/issues"
   },
-  "homepage": "https://github.com/unis434/jest-another-rpg#readme",
+  "homepage": "https://github.com/Johnnyboy7781/jest-another-RPG#readme",
   "devDependencies": {
-    "jest": "^27.4.7"
+    "jest": "^27.5.1"
   },
   "dependencies": {
     "inquirer": "^8.2.0"
