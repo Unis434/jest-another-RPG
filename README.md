@@ -24,7 +24,6 @@ This application is a command-line role-playing game (RPG) in which a user battl
 
 The following animation shows how the game will function:
 
-![alt=RPG-game-functionality](./utils/images/RPG-game-functionality.gif)
 
 ## Questions
 If you have any questions please use the following two links to contact me:
