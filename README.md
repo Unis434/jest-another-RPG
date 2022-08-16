@@ -18,7 +18,7 @@ This application is a command-line role-playing game (RPG) in which a user battl
 * Create an RPG and organize the code by player objects, enemy objects, and potion objects.
 * The three main objects should have tests written for them.
 * A fourth Game object encompasses all of the game logic.
-* The game can be played in the command line based on user input.
+* The game can be played in the command line based on user input..
 
 ## Screenshots
 
